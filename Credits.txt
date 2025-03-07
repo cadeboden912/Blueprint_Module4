@@ -1,12 +1,23 @@
 Game Programmers
 Cade Boden
+
 Level Designers
 Cade Boden
+
 Game Designers
 Cade Boden
+
 Market Place Assets
 
 
+3rd Party Sounds
+MattRuthSound, Freesound.org
+rubberduck9999, Freesound.org
+BeezleFM, Freesound.org
+freesound_community, Pixabay.com
+Sound Effect, Youtube
+scholzi982, freesound.org
+Brokenphono, freesound.org
 
 3rd Party Assets
 Bleed's Game Art - http://remusprites.carbonmade.com - Tower Art
